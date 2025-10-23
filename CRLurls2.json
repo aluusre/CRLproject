@@ -1,0 +1,8 @@
+{
+  "eventType": "CDNCheck",
+  "type": "crl",
+  "urls": [
+    "http://crl.digicert.cn/DigiCertAssuredIDRootCA.crl",
+    "http://crl3.digicert.com/DigiCertGlobalRootCA.crl"
+  ]
+}
