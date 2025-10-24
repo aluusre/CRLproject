@@ -1,0 +1,18 @@
+[
+  {
+    "eventType": "CDNCheck",
+    "type": "crl",
+    "url": "http://crl.digicert.cn/DigiCertAssuredIDRootCA.crl",
+    "duration": 259
+    "success": true
+    "error": ""
+  },
+  {
+    "eventType": "CDNCheck",
+    "type": crl,
+    "url": "http://crl4.digicert.com/DigiCertHighAssuranceEVRootCA.crl",
+    "duration": 152
+    "success": true,
+    "error": ""
+  }
+]
